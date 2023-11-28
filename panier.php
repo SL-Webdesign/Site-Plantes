@@ -8,5 +8,5 @@
 </style>
 
 <div class="center">
-    <img src="/Images/LOL.jpg" alt="LOL">
+    <img src="/Images/CV-Simon-Lemaire.jpg" alt="CV">
 </div>
